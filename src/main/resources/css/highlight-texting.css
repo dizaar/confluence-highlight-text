@@ -1,0 +1,4 @@
+.highlight-button-released { background-image: url("images/button-released.png") !important}
+.highlight-button-pressed { background-image: url("images/button-pressed.png") !important}
+.highlight-pressed-background { background-color: #172b4d!important}
+#highlight-texting-button {float:right!important}
