@@ -1,5 +1,6 @@
 # confluence-highlight-text
-https://user-images.githubusercontent.com/17981664/127307247-9806b334-0a2b-46b2-89b9-54a7f94b655a.mp4  
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/17981664/127307631-a24d6c3e-7c0c-439c-a7af-ffdc43903b4c.gif)
+
 Simple highlight plugin for Atlassian Confluence. Works just in editor.  
 Install .obr as standart application via gui.  
 Tested on Conluence 7.4.6,7.12.0.  
